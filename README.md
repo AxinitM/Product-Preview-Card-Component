@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Repo URL: [Add solution URL here](https://your-solution-url.com)  
-- Live Page URL: [Add live site URL here](https://your-live-site-url.com)
+- [Repo URL](https://github.com/AxinitM/Product-Preview-Card-Component))  
+- [Live Page URL](https://axinitm.github.io/Product-Preview-Card-Component/)
 
 ---
 
