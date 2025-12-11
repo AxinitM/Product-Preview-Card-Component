@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- [Repo URL](https://github.com/AxinitM/Product-Preview-Card-Component))  
+- [Repo URL](https://github.com/AxinitM/Product-Preview-Card-Component) 
 - [Live Page URL](https://axinitm.github.io/Product-Preview-Card-Component/)
 
 ---
