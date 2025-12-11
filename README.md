@@ -1,4 +1,4 @@
-# Product Preview Card Component / Frontend Mentor Projects
+# Product Preview Card Component / Frontend Mentor
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). The project helps improve front-end coding skills by building responsive and interactive components.
 
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/screenshot.jpg)
+!(./images/screenshot.png)
 
 ### Links
 
